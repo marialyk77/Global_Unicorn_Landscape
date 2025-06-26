@@ -74,3 +74,24 @@ Power BI for data modeling, DAX measures, custom visuals, and interactivity.
 - Use tooltips: Hover for detailed context on each data point.
 
 - Refer to KPIs: Summary cards show top-level metrics and highlight trends over time.
+
+### Data Dictionary
+
+A dedicated Data Dictionary page has been included to enhance model transparency and documentation. It was built using:
+
+```ruby
+INFO.VIEW.TABLES()
+```
+```ruby
+INFO.VIEW.COLUMNS()
+```
+
+```ruby
+INFO.VIEW.MEASURES()
+```
+
+```ruby
+INFO.VIEW.RELATIONSHIPS()
+```
+
+This view dynamically lists all visible tables, columns, measures, and relationships, including metadata like expressions, descriptions, and data locations.
