@@ -2,29 +2,29 @@
 
 ## Overview
 
-This Power BI report provides a comprehensive analysis of the global unicorn landscape — companies valued at over $1 billion. The dashboard explores trends across time, industries, and geography, offering insights into valuation growth, funding efficiency, and return on investment (ROI).
+This Power BI report provides a comprehensive analysis of the global unicorn landscape — companies valued at over $1 billion. The dashboard explores trends across time, industries, and geography, offering insights into valuation growth, investor diversity, and capital efficiency using valuation multiples.
 
 ## Purpose
 
 The purpose of this dashboard is to:
 
-- Analyze the development of unicorn companies over time.
+- Analyze the development of unicorn companies over time
 
-- Compare industry performance based on key financial indicators.
+- Compare industry performance based on valuation multiples and investor engagement
 
-- Identify top-performing global hubs in valuation, ROI, and funding efficiency (FTV).
+- Identify top-performing global hubs in valuation and investment activity
 
-- Provide decision-makers with clear insights into which sectors and regions drive the unicorn economy.
+- Provide decision-makers with insights into which sectors and regions drive the unicorn economy
 
 ##  Key Insights
 
 ### Unicorn Development
 
-- The number of unicorns surged in recent years, peaking in 2021 with over 500 new unicorns.
+- The number of unicorns surged in recent years, peaking in 2021 with over 500 new unicorns
 
-- Most unicorns reached $1B valuation in under 8 years, with a median time of 7 years.
+- Most unicorns reached $1B valuation in under 8 years, with a median time of 7 years
 
-- Smaller valuation companies tend to show higher ROI than their larger counterparts.
+- Early-stage unicorns often display higher valuation multiples, showing high value generated per dollar of funding
 
 ### Industry Performance
 
@@ -32,15 +32,15 @@ The purpose of this dashboard is to:
 
 - Artificial Intelligence stands out for high average valuation and the fastest YoY growth.
 
-- FTV (Funding-to-Valuation) highlights Travel as an exceptionally efficient sector, creating high valuation from minimal funding.
+- Industries like Cybersecurity and Data Analytics attract a high number of investors per unicorn, signaling increased stakeholder interest.
 
 ###  Global Hubs
 
-- North America dominates in total valuation and unicorn count.
+- North America leads in total unicorn valuation and count, driven by major markets like the United States.
 
-- Oceania shows exceptional average valuation and ROI, driven by highly efficient cities.
+- Oceania stands out for capital efficiency, generating $22.99 in valuation per $1 of funding.
 
-- San Francisco leads globally in both valuation and unicorn density.
+- San Francisco remains the dominant city hub globally in both valuation and unicorn density.
 
 ## Methodology
 
