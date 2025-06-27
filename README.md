@@ -53,9 +53,7 @@ The dataset was sourced from the Maven Analytics Unicorn Challenge: https://mave
 
 - Valuation: Total and average by year, industry, and location.
 
-- ROI: Calculated as (Valuation - Funding) / Funding.
-
-- FTV: Funding-to-Valuation ratio, showing how much valuation is created per $1 of funding.
+- Valuation Multiple:  Calculated as Valuation ÷ Funding. Shows how much valuation is created per $1 of funding — a startup-focused alternative to traditional ROI.
 
 - YoY Growth: Year-over-year valuation growth at the industry level.
 
